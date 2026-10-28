@@ -1,0 +1,19 @@
+# Core FastAPI & Web Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# HTTP Client & Async Networking
+httpx>=0.28.0
+
+# Geospatial Utilities
+shapely>=2.0.6
+
+# Testing Framework
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
+
+# Dataset Exploration & Notebooks
+jupyterlab>=4.3.0
+notebook>=7.3.0

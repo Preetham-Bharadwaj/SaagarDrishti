@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LandingCenters_29Apr2024.73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.79000092,
+          13
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "OBJECTID": 126,
+        "SECTOR_NAM": "KARNATAKA",
+        "SECTOR_ID": "SEC004",
+        "DIST_NAME": "Dakshina Kannada",
+        "LC_NAME": "Suratakal Pt",
+        "LC_UNIQUE_": "KA0302a",
+        "LONGITUDE": 74.79,
+        "LATITUDE": 13,
+        "FORECAST_I": 32599,
+        "UPDATED_DA": "2024-04-27T18:30:00Z",
+        "FORECAST_D": "2024-04-27T18:30:00Z",
+        "VALIDITY_D": "2024-04-28T18:30:00Z",
+        "DIRECTION": "NW",
+        "BEARING": 279,
+        "DISTANCE_F": 12,
+        "DISTANCE_T": 17,
+        "DEPTH_FROM": 23,
+        "DEPTH_TO": 28,
+        "LONGITUDE_": 74,
+        "LONGITUDE1": 39,
+        "LONGITUD_1": 50,
+        "LONGITUD_2": "E",
+        "LATITUDE_D": 13,
+        "LATITUDE_M": 1,
+        "LATITUDE_S": 11,
+        "LATITUDE_1": "N",
+        "STATUS": "YES",
+        "MARINE_FIS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LandingCenters_29Apr2024.74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.26000214,
+          14.71000004
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "OBJECTID": 127,
+        "SECTOR_NAM": "KARNATAKA",
+        "SECTOR_ID": "SEC004",
+        "DIST_NAME": "Uttara Kannada",
+        "LC_NAME": "Belekeri",
+        "LC_UNIQUE_": "KA0104a",
+        "LONGITUDE": 74.26,
+        "LATITUDE": 14.71,
+        "FORECAST_I": 32599,
+        "UPDATED_DA": "2024-04-27T18:30:00Z",
+        "FORECAST_D": "2024-04-27T18:30:00Z",
+        "VALIDITY_D": "2024-04-28T18:30:00Z",
+        "DIRECTION": "SW",
+        "BEARING": 267,
+        "DISTANCE_F": 26,
+        "DISTANCE_T": 31,
+        "DEPTH_FROM": 29,
+        "DEPTH_TO": 34,
+        "LONGITUDE_": 74,
+        "LONGITUDE1": 0,
+        "LONGITUD_1": 33,
+        "LONGITUD_2": "E",
+        "LATITUDE_D": 14,
+        "LATITUDE_M": 41,
+        "LATITUDE_S": 43,
+        "LATITUDE_1": "N",
+        "STATUS": "YES",
+        "MARINE_FIS": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LandingCenters_29Apr2024.75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.72000122,
+          13.30000019
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "OBJECTID": 128,
+        "SECTOR_NAM": "KARNATAKA",
+        "SECTOR_ID": "SEC004",
+        "DIST_NAME": "Udupi",
+        "LC_NAME": "Udiyavara",
+        "LC_UNIQUE_": "KA0208a",
+        "LONGITUDE": 74.72,
+        "LATITUDE": 13.3,
+        "FORECAST_I": 32599,
+        "UPDATED_DA": "2024-04-27T18:30:00Z",
+        "FORECAST_D": "2024-04-27T18:30:00Z",
+        "VALIDITY_D": "2024-04-28T18:30:00Z",
+        "DIRECTION": "NW",
+        "BEARING": 326,
+        "DISTANCE_F": 15,
+        "DISTANCE_T": 20,
+        "DEPTH_FROM": 11,
+        "DEPTH_TO": 16,
+        "LONGITUDE_": 74,
+        "LONGITUDE1": 37,
+        "LONGITUD_1": 40,
+        "LONGITUD_2": "E",
+        "LATITUDE_D": 13,
+        "LATITUDE_M": 26,
+        "LATITUDE_S": 7,
+        "LATITUDE_1": "N",
+        "STATUS": "YES",
+        "MARINE_FIS": 1
+      }
+    }
+  ],
+  "totalFeatures": 29,
+  "numberMatched": 29,
+  "numberReturned": 3,
+  "timeStamp": "2026-10-26T09:14:49.772Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}

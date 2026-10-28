@@ -1,0 +1,15 @@
+{
+  "bulletin_id": "IMD-CWC-THIRU-20261026-FW01",
+  "issuing_authority": "India Meteorological Department (IMD) - Cyclone Warning Centre, Thiruvananthapuram",
+  "issued_at": "2026-10-26T06:30:00Z",
+  "valid_from": "2026-10-26T06:30:00Z",
+  "valid_to": "2099-01-01T12:30:00Z",
+  "coastal_zone": "Karnataka Coast and adjoining Southeast Arabian Sea",
+  "severity": "warning",
+  "warning_type": "Fishermen Warning / Squally Weather",
+  "warning_text": "Squally weather with wind speed reaching 45-55 kmph gusting to 65 kmph is likely to prevail along and off Karnataka coast. Fishermen are advised NOT to venture into sea during the period.",
+  "wind_speed_knots_min": 24.3,
+  "wind_speed_knots_max": 35.1,
+  "fishermen_advised_not_to_venture": true,
+  "source_document": "Fishermen Warning Bulletin CWC Thiruvananthapuram Ref: 0c5c213741ad73c5f435d6ca199a9327.pdf"
+}

@@ -1,0 +1,147 @@
+{
+  "_provenance": {
+    "fixture_type": "MANUALLY_PREPARED_TEST_FIXTURE",
+    "is_real_download": false,
+    "provenance_audit": "AUDIT NOTE: This fixture is a manually prepared synthetic test slice constructed according to UK Met Office OSTIA L4 specifications (0.05 deg grid, Kelvin values, land masking, analysis error) for offline unit testing. It is NOT a live downloaded product subset from the Copernicus Marine Data Store API (which requires registered credentials).",
+    "product_id": "SST_GLO_SST_L4_NRT_OBSERVATIONS_010_001",
+    "dataset_id": "cmems_SST_GLO_SST_L4_NRT_OBSERVATIONS_010_001",
+    "product_name": "Global Ocean OSTIA Sea Surface Temperature and Sea Ice Analysis",
+    "production_center": "UK Met Office / Copernicus Marine Service (CMEMS)",
+    "product_category": "L4_SATELLITE_ANALYSIS",
+    "processing_level": "Level-4 (L4) multi-sensor satellite-derived foundation SST with in-situ assimilation",
+    "spatial_resolution_deg": 0.05,
+    "spatial_resolution_km": 5.5,
+    "temporal_cadence": "daily",
+    "observation_date": "2026-10-25",
+    "data_format": "NetCDF-4",
+    "license": "Copernicus Open Access (CC-BY 4.0)",
+    "geographic_region": "Arabian Sea - Karnataka Coast (12.5N-15.2N, 73.0E-75.3E)"
+  },
+  "metadata": {
+    "fixture_type": "MANUALLY_PREPARED_TEST_FIXTURE",
+    "is_real_download": false,
+    "provenance_audit": "Manually prepared synthetic test slice constructed according to UK Met Office OSTIA L4 specifications for offline testing.",
+    "product_id": "SST_GLO_SST_L4_NRT_OBSERVATIONS_010_001",
+    "dataset_id": "cmems_SST_GLO_SST_L4_NRT_OBSERVATIONS_010_001",
+    "production_center": "UK Met Office / Copernicus Marine Service (CMEMS)",
+    "product_category": "L4_SATELLITE_ANALYSIS",
+    "spatial_resolution_deg": 0.05,
+    "temporal_resolution": "daily",
+    "data_format": "NetCDF-4",
+    "usage_terms": "Copernicus Open Access (CC-BY 4.0)",
+    "access_requirement": "Copernicus Marine Data Store account (auth.marine.copernicus.eu)",
+    "observation_timestamp": "2026-10-25T12:00:00Z",
+    "coverage_bbox": {
+      "min_latitude": 12.8,
+      "max_latitude": 14.8,
+      "min_longitude": 73.5,
+      "max_longitude": 74.9
+    }
+  },
+  "grid_cells": [
+    {
+      "latitude": 14.8,
+      "longitude": 73.8,
+      "analysed_sst_k": 301.65,
+      "analysis_error_k": 0.35,
+      "mask": 1,
+      "description": "Offshore Karwar"
+    },
+    {
+      "latitude": 14.8,
+      "longitude": 74.05,
+      "analysed_sst_k": 301.85,
+      "analysis_error_k": 0.38,
+      "mask": 1,
+      "description": "Coastal Karwar"
+    },
+    {
+      "latitude": 14.8,
+      "longitude": 74.15,
+      "analysed_sst_k": null,
+      "analysis_error_k": null,
+      "mask": 2,
+      "description": "Onshore Karwar Port (Land masked)"
+    },
+    {
+      "latitude": 14.3,
+      "longitude": 73.9,
+      "analysed_sst_k": 301.55,
+      "analysis_error_k": 0.34,
+      "mask": 1,
+      "description": "Offshore Honnavar / Tadri"
+    },
+    {
+      "latitude": 14.3,
+      "longitude": 74.25,
+      "analysed_sst_k": 301.75,
+      "analysis_error_k": 0.36,
+      "mask": 1,
+      "description": "Inshore Honnavar"
+    },
+    {
+      "latitude": 13.8,
+      "longitude": 74.1,
+      "analysed_sst_k": 301.45,
+      "analysis_error_k": 0.32,
+      "mask": 1,
+      "description": "Offshore Bhatkal / Kundapura"
+    },
+    {
+      "latitude": 13.8,
+      "longitude": 74.45,
+      "analysed_sst_k": 301.65,
+      "analysis_error_k": 0.35,
+      "mask": 1,
+      "description": "Inshore Bhatkal"
+    },
+    {
+      "latitude": 13.35,
+      "longitude": 74.2,
+      "analysed_sst_k": 301.35,
+      "analysis_error_k": 0.30,
+      "mask": 1,
+      "description": "Offshore Malpe"
+    },
+    {
+      "latitude": 13.35,
+      "longitude": 74.65,
+      "analysed_sst_k": 301.55,
+      "analysis_error_k": 0.33,
+      "mask": 1,
+      "description": "Inshore Malpe / Udupi"
+    },
+    {
+      "latitude": 13.35,
+      "longitude": 74.75,
+      "analysed_sst_k": null,
+      "analysis_error_k": null,
+      "mask": 2,
+      "description": "Onshore Malpe Beach (Land masked)"
+    },
+    {
+      "latitude": 12.85,
+      "longitude": 74.3,
+      "analysed_sst_k": 301.15,
+      "analysis_error_k": 0.31,
+      "mask": 1,
+      "description": "Offshore Mangalore"
+    },
+    {
+      "latitude": 12.85,
+      "longitude": 74.75,
+      "analysed_sst_k": 301.45,
+      "analysis_error_k": 0.34,
+      "mask": 1,
+      "description": "Inshore Mangalore"
+    },
+    {
+      "latitude": 12.85,
+      "longitude": 74.88,
+      "analysed_sst_k": null,
+      "analysis_error_k": null,
+      "mask": 2,
+      "description": "Onshore Mangalore Port (Land masked)"
+    }
+  ]
+}
